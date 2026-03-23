@@ -6,4 +6,13 @@ https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospital
 https://www.ipea.gov.br/atlasviolencia/arquivos/artigos/9058-sistemahospitalar.pdf
 https://bvsms.saude.gov.br/bvs/publicacoes/07_0066_M.pdf
 
+Valores interessantes da tabela: VAL_TOT	float8	Valor total da AIH
+                                 US_TOT	float8	Valor total, em dólar
+                                 DT_INTER	int8	Data de internação
+                                 DT_SAIDA	int8	Data de saída
+
+
+
+TEMA(s): Relação da neuropatia com o tempo e custo de internação (estatística descritiva)
+
 '''
