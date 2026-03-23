@@ -8,6 +8,7 @@ https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospital
 https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospitalares-do-sus-sihsus/documentacao/
 https://www.ipea.gov.br/atlasviolencia/arquivos/artigos/9058-sistemahospitalar.pdf
 https://bvsms.saude.gov.br/bvs/publicacoes/07_0066_M.pdf
+curso pyspark no google colab: https://colab.research.google.com/drive/1G894WS7ltIUTusWWmsCnF_zQhQqZCDOc?usp=drive_link
 
 Valores interessantes da tabela: VAL_TOT	float8	Valor total da AIH
                                  US_TOT	float8	Valor total, em dólar
