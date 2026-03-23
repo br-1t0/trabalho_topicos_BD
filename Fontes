@@ -1,6 +1,9 @@
 # Links legais:
 
 '''
+
+Arthur Brito , Antônio , Arthur Eduardo, Marcus 
+
 https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospitalares-do-sus-sihsus/dicionario-de-variaveis/
 https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacoes-hospitalares-do-sus-sihsus/documentacao/
 https://www.ipea.gov.br/atlasviolencia/arquivos/artigos/9058-sistemahospitalar.pdf
@@ -14,5 +17,15 @@ Valores interessantes da tabela: VAL_TOT	float8	Valor total da AIH
 
 
 TEMA(s): Relação da neuropatia com o tempo e custo de internação (estatística descritiva)
+
+
+PRÓXIMOS PASSOS:
+
+1 - Verificar se o dataset das neuropatias se encaixa no mínimo requerido pelo documento
+
+2 - Caso positivo, separar tarefas
+
+
+
 
 '''
